@@ -103,6 +103,8 @@ git branch -d <branch name> // delete local branch
 git branch -a
 git push origin --delete <branch name> // delete remote branch
 
+Added in branch1
+
 FASTER EXAMPLE
 git branch BranchName
 git checkout BranchName
@@ -117,4 +119,8 @@ git merge BranchName
 git push origin master
 Then we can delete the BranchName branch
 
+
+Branch1 last line
+
 Master last line
+
