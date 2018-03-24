@@ -119,4 +119,8 @@ git merge BranchName
 git push origin master
 Then we can delete the BranchName branch
 
+
 Branch1 last line
+
+Master last line
+
