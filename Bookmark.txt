@@ -1,0 +1,4 @@
+https://github.com/atom/atom/releases/tag/v1.34.0
+http://executequery.org/index.php
+http://www.sql-workbench.eu/
+http://www.squirrelsql.org/
