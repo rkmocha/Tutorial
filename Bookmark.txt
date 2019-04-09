@@ -2,3 +2,11 @@ https://github.com/atom/atom/releases/tag/v1.34.0
 http://executequery.org/index.php
 http://www.sql-workbench.eu/
 http://www.squirrelsql.org/
+
+
+Maven Repositories
+  Multi module project: versioning, flatten plugin, enforcer plugin, bom, version range specification
+  https://github.com/springframeworkguru/mb2g-mm-maven
+  
+  
+https://github.com/springframeworkguru/mb2g-testing/tree/jboss-repo
