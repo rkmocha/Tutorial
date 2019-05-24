@@ -8,6 +8,22 @@ Maven Repositories
   Multi module project: versioning, flatten plugin, enforcer plugin, bom, version range specification
   https://github.com/springframeworkguru/mb2g-mm-maven
   
-  
 https://github.com/springframeworkguru/mb2g-testing/tree/jboss-repo
+
+singleton
 https://github.com/Java-Techie-jt/singleton-rule-break-prevent
+
+Producer And Consumer Example
+https://github.com/kishanjavatrainer/ProducerAndConsumerExample
+
+TypeScript
+https://github.com/koushikkothagal/github-report
+
+logstash
+https://github.com/codingexplained/processing-events-with-logstash
+
+elasticsearch
+https://github.com/codingexplained/complete-guide-to-elasticsearch
+
+microservices
+https://github.com/in28minutes/spring-microservices
