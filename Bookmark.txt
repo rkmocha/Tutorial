@@ -10,3 +10,4 @@ Maven Repositories
   
   
 https://github.com/springframeworkguru/mb2g-testing/tree/jboss-repo
+https://github.com/Java-Techie-jt/singleton-rule-break-prevent
