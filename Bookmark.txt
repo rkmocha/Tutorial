@@ -29,4 +29,5 @@ microservices
 https://github.com/in28minutes/spring-microservices
 
 SpringBoot Batch Cvs To Db
+https://www.youtube.com/watch?v=WpQajiHhYzs&list=PLzS3AYzXBoj971zXl9wGZRwCMHIUWfmvC&index=2
 https://github.com/kishanjavatrainer/SpringBootBatchCvsToDb/tree/master/SpringBootBatchCvsToDb
