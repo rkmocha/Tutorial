@@ -1,0 +1,30 @@
+package functionalInterface;
+
+import java.util.function.Consumer;
+
+public class ConsumerDemo {
+
+	public static void main(String[] args) {
+		
+		Consumer<String> consumer = x -> 
+			System.out.println(x.toUpperCase()); 
+		consumer.accept("hello");
+		
+		consume(x -> 
+			System.out.println(x.toUpperCase()));
+		
+		consume(consumer);
+		
+		consume(ConsumerDemo::stringUpperCase);
+
+	}
+	
+	public static void consume(Consumer<String> consumer) {
+		consumer.accept("hello");
+	}
+	
+	private static void stringUpperCase(String s) {
+		System.out.println(s.toUpperCase());
+	}
+
+}
